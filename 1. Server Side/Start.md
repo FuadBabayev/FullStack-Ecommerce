@@ -12,7 +12,7 @@ a. "C:\Users\user\Downloads\stripe.exe" login                                   
 b. "C:\Users\user\Downloads\stripe.exe" listen --forward-to localhost:2030/webhook    https://docs.stripe.com/stripe-cli
 9. npm i multer cloudinary multer-storage-cloudinary                                  Multer to configure our server to accept file upload
 10. npm i cors                                                                         Cors to Fix connection frontend to backend problems (access control check)
-c. "C:\Users\user\Downloads\windows_amd64.exe" build -i api.json -o index.html        To make HTML documentation use,
+c. "C:\Users\user\Downloads\windows_amd64.exe" build -i api.json -o index.html        To make HTML documentation use
 
 
 
